@@ -59,6 +59,18 @@ and populated in
 Directory renamed to myproject/ for easy access
 Server name set to localhost in ```/etc/apache2/apache2.conf```
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-1.png)
+
+![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-2.png)
+
+![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-3.png)
+
+![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-4.png)
+
+![App Screenshot](https://raw.githubusercontent.com/bhagchandaniniraj/iitj/main/screenshots/Screenshot-5.png)
+
 **Credits** 
 
 Special thanks to Swapnil Srivastava for providing the 30 Days of JavaScript projects on GitHub, which were used in this project.
