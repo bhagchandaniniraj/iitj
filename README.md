@@ -15,7 +15,7 @@ docker build -t mybuild -f dockerfile .
 ```
 **Running the Container**
 ```
-docker run -it --name -p 80:80 mypro mybuild
+docker run -it --name mypro -p 80:80  mybuild
 ```
 **After getting inside the container**
 Run the following command:
